@@ -1,4 +1,4 @@
 *.bgeo.sc
 
 # Folders
-backup/
+*backup/
